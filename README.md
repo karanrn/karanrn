@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaskara 👋
 Welcome to my Github profile.
 My work besides work
 <!--
