@@ -1,4 +1,4 @@
-### Namaskara 👋
+### Namaskara :pray:
 Welcome to my Github profile.
 My work besides work
 <!--
